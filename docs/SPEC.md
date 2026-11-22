@@ -1,6 +1,6 @@
 # BasketBuddy: Spec
 
-**Shopping lists that remember** · #23 of 33 · Wave 2: Recurring keepers · Used: Weekly · Harder · Revenue potential: Low–medium · Home & Household · Source: ChatGPT
+**Shopping lists that remember** · #22 of 32 · Wave 2: Recurring keepers · Used: Weekly · Harder · Revenue potential: Low–medium · Home & Household · Source: ChatGPT
 
 ## One-liner
 
