@@ -4,11 +4,13 @@ Shopping lists that remember: reusable lists, estimated totals, shared shopping
 
 ## Status
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+Planning. #13 of 15 in the portfolio build order (medium (sync)). See [`docs/SPEC.md`](docs/SPEC.md).
 
 ## How it makes money
 
-_TBD, see SPEC._
+- **Free:** Lists, with ads
+- **Paid:** £1.99/month: sharing + price history + unlimited
+- **Ads:** Light
 
 ## Run locally
 
