@@ -58,11 +58,15 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Re-use last week's list |
 | Cadence | Weekly |
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Items fly into the basket as they're ticked; the budget meter fills smoothly
+- Item ticked: it flies into the trolley
+- Under budget: the trolley pops a wheelie
+- Shared list updated: a paper plane lands on the list
+- Forgotten item: it waves from the shelf ('you forgot me!')
+- List done: the trolley rolls off into the sunset
 
 
 ## AI
