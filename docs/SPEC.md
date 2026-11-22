@@ -34,7 +34,7 @@ Reusable grocery lists with quantities, estimated prices and a running total, or
 | Premium | £1.99/month: sharing, price history, unlimited lists |
 | Ads | Light |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -66,6 +66,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo app + Supabase for sharing.
 - **Data:** On the device for solo use; Supabase for sharing.
+- **Backend:** Device only; shared data once live list sharing is added. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
