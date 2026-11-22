@@ -50,11 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Items fly into the basket as they're ticked; the budget meter fills smoothly
+- Item ticked: it flies into the trolley
+- Under budget: the trolley pops a wheelie
+- Shared list updated: a paper plane lands on the list
+- Forgotten item: it waves from the shelf ('you forgot me!')
+- List done: the trolley rolls off into the sunset
 
 
 ## AI
