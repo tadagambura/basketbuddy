@@ -2,7 +2,7 @@
 
 **Shopping lists that remember**
 
-> #31 of 33 in the build order · Harder · Revenue potential: Low–medium · Home & Household
+> #23 of 33 · Wave 2: Recurring keepers · Used: Weekly · Harder · Revenue potential: Low–medium · Home & Household
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Shared lists |
 | Next step | Re-use last week's list |
 | Cadence | Weekly |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
